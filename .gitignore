@@ -164,3 +164,4 @@ cython_debug/
 
 # LLM
 ollama_files
+llm
