@@ -164,10 +164,7 @@ cython_debug/
 
 # LLM
 ollama_files
-<<<<<<< HEAD
 
 # project idea data files
-project-idea-exploration/data/
-=======
+project-idea-exploration/data/course-llm-zoomcamp
 llm
->>>>>>> 297f6247c959231ddfaabdb446b6045017e111b1
